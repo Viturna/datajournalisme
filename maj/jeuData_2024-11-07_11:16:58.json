@@ -1,0 +1,552 @@
+{
+  "jp.pokemon.pokemontcgp": {
+    "title": "Pokémon TCG Pocket",
+    "studio": "The Pokémon Company",
+    "updates": [
+      {
+        "date": "2024-11-01",
+        "installs": "5,000,000+",
+        "version": "1.0.6"
+      }
+    ]
+  },
+  "com.bilibilihk.jujutsuphanparagp": {
+    "title": "Jujutsu Kaisen Phantom Parade",
+    "studio": "BILIBILI",
+    "updates": [
+      {
+        "date": "2024-10-26",
+        "installs": "1,000,000+",
+        "version": "1.5.1"
+      }
+    ]
+  },
+  "com.ventogames.findthecat": {
+    "title": "Find The Cat - Spot It!",
+    "studio": "Agave Games",
+    "updates": [
+      {
+        "date": "2024-11-04",
+        "installs": "1,000,000+",
+        "version": "2.0.4"
+      }
+    ]
+  },
+  "com.uc.minigame.relax": {
+    "title": "Mini Games: Calm & Relax",
+    "studio": "Rocket Succeed Together",
+    "updates": [
+      {
+        "date": "2024-11-06",
+        "installs": "10,000,000+",
+        "version": "1.0.23"
+      }
+    ]
+  },
+  "com.trending.tik.tap.game.challenge": {
+    "title": "Tik Tap Challenge",
+    "studio": "XGame Global",
+    "updates": [
+      {
+        "date": "2024-11-04",
+        "installs": "10,000,000+",
+        "version": "1.0.6"
+      }
+    ]
+  },
+  "com.vitastudio.mahjong": {
+    "title": "Vita Mahjong",
+    "studio": "Vita Studio.",
+    "updates": [
+      {
+        "date": "2024-11-01",
+        "installs": "10,000,000+",
+        "version": "2.17.1"
+      }
+    ]
+  },
+  "com.playspare.supermarket.store.simulator": {
+    "title": "My Supermarket Simulator 3D",
+    "studio": "Game District LLC",
+    "updates": [
+      {
+        "date": "2024-11-01",
+        "installs": "10,000,000+",
+        "version": "1.5.5"
+      }
+    ]
+  },
+  "com.funcat.tgbtceu": {
+    "title": "Tokyo Ghoul : Break the Chains",
+    "studio": "FunCat Games",
+    "updates": [
+      {
+        "date": "2024-11-05",
+        "installs": "100,000+",
+        "version": "3.3693"
+      }
+    ]
+  },
+  "com.gof.global": {
+    "title": "Whiteout Survival",
+    "studio": "Century Games PTE. LTD.",
+    "updates": [
+      {
+        "date": "2024-10-14",
+        "installs": "10,000,000+",
+        "version": "1.21.18"
+      }
+    ]
+  },
+  "in.playsimple.wordsearch": {
+    "title": "Word Search Explorer",
+    "studio": "PlaySimple Games",
+    "updates": [
+      {
+        "date": "2024-10-29",
+        "installs": "10,000,000+",
+        "version": "1.204.0"
+      }
+    ]
+  },
+  "com.ig.bus.out": {
+    "title": "Bus Out",
+    "studio": "Zego Global Pte",
+    "updates": [
+      {
+        "date": "2024-11-04",
+        "installs": "5,000,000+",
+        "version": "1.63"
+      }
+    ]
+  },
+  "com.roblox.client": {
+    "title": "Roblox",
+    "studio": "Roblox Corporation",
+    "updates": [
+      {
+        "date": "2024-10-30",
+        "installs": "1,000,000,000+",
+        "version": "2.649.875"
+      }
+    ]
+  },
+  "com.readygo.dark.gp": {
+    "title": "Dark War Survival",
+    "studio": "SILKWORLD GAME LIMITED",
+    "updates": [
+      {
+        "date": "2024-11-06",
+        "installs": "1,000,000+",
+        "version": "1.250.566"
+      }
+    ]
+  },
+  "kidultlovin.word.zen": {
+    "title": "Zen Word® - Relax Puzzle Game",
+    "studio": "Oakever Games",
+    "updates": [
+      {
+        "date": "2024-11-04",
+        "installs": "10,000,000+",
+        "version": "1.57.1"
+      }
+    ]
+  },
+  "jigsaw.puzzle.game.banana": {
+    "title": "Jigsawscapes® - Jigsaw Puzzles",
+    "studio": "Oakever Games",
+    "updates": [
+      {
+        "date": "2024-11-06",
+        "installs": "10,000,000+",
+        "version": "3.5.9"
+      }
+    ]
+  },
+  "com.wood.bolt.wordle.screw.nuts.puzzle": {
+    "title": "Woodle Screw Jam: Nuts & Bolts",
+    "studio": "LifePulse Puzzle Game Studio",
+    "updates": [
+      {
+        "date": "2024-10-23",
+        "installs": "1,000,000+",
+        "version": "1.0.2"
+      }
+    ]
+  },
+  "com.supercell.brawlstars": {
+    "title": "Brawl Stars",
+    "studio": "Supercell",
+    "updates": [
+      {
+        "date": "2024-10-25",
+        "installs": "100,000,000+",
+        "version": "58.279"
+      }
+    ]
+  },
+  "com.abi.perfect.tidy": {
+    "title": "Perfect Tidy",
+    "studio": "ABI Game Studio",
+    "updates": [
+      {
+        "date": "2024-11-01",
+        "installs": "5,000,000+",
+        "version": "1.2.16"
+      }
+    ]
+  },
+  "com.block.juggle": {
+    "title": "Block Blast!",
+    "studio": "Hungry  Studio",
+    "updates": [
+      {
+        "date": "2024-11-05",
+        "installs": "100,000,000+",
+        "version": "5.8.5"
+      }
+    ]
+  },
+  "com.flyingwhalegames.carout": {
+    "title": "Car Out! Traffic Parking Games",
+    "studio": "ZephyrMobile",
+    "updates": [
+      {
+        "date": "2024-10-23",
+        "installs": "5,000,000+",
+        "version": "1.11.5"
+      }
+    ]
+  },
+  "com.zm.nuts": {
+    "title": "Nut Sort: Color Sorting Game",
+    "studio": "ZephyrMobile",
+    "updates": [
+      {
+        "date": "2024-10-29",
+        "installs": "5,000,000+",
+        "version": "1.6.1"
+      }
+    ]
+  },
+  "com.zdb.c23.traffic.driving.simulator": {
+    "title": "Ultimate Traffic Driving Car",
+    "studio": "Motion Technology",
+    "updates": [
+      {
+        "date": "2024-10-31",
+        "installs": "1,000,000+",
+        "version": "1.0.3"
+      }
+    ]
+  },
+  "com.JindoBlu.OfflineGames": {
+    "title": "Offline Games - No Wifi Games",
+    "studio": "JindoBlu",
+    "updates": [
+      {
+        "date": "2024-10-26",
+        "installs": "50,000,000+",
+        "version": "2.8.1"
+      }
+    ]
+  },
+  "com.fc.sn.satisy.makeup.ocd.organizer": {
+    "title": "Satisroom: Perfectly Organize",
+    "studio": "FALCON GAME STUDIO",
+    "updates": [
+      {
+        "date": "2024-11-04",
+        "installs": "10,000,000+",
+        "version": "1.13.1"
+      }
+    ]
+  },
+  "io.supercent.pizzaidle": {
+    "title": "Pizza Ready!",
+    "studio": "Supercent, Inc.",
+    "updates": [
+      {
+        "date": "2024-10-25",
+        "installs": "100,000,000+",
+        "version": "24.0.0"
+      }
+    ]
+  },
+  "com.fun.lastwar.gp": {
+    "title": "Last War:Survival Game",
+    "studio": "First Fun",
+    "updates": [
+      {
+        "date": "2024-11-05",
+        "installs": "10,000,000+",
+        "version": "1.0.260"
+      }
+    ]
+  },
+  "com.mergegames.gossipharbor": {
+    "title": "Gossip Harbor®: Merge & Story",
+    "studio": "Microfun Limited",
+    "updates": [
+      {
+        "date": "2024-11-06",
+        "installs": "10,000,000+",
+        "version": "3.52.0"
+      }
+    ]
+  },
+  "com.iscoolentertainment.crossword.arrow.word": {
+    "title": "Crossword Daily - Arrow Word",
+    "studio": "IsCool Entertainment",
+    "updates": [
+      {
+        "date": "2024-10-30",
+        "installs": "100,000+",
+        "version": "1.3.0"
+      }
+    ]
+  },
+  "com.fugo.wow": {
+    "title": "Words of Wonders: Crossword",
+    "studio": "Fugo Games",
+    "updates": [
+      {
+        "date": "2024-11-02",
+        "installs": "100,000,000+",
+        "version": "5.1.3"
+      }
+    ]
+  },
+  "com.fanatee.stop2": {
+    "title": "Stop 2 - Word Trivia Game",
+    "studio": "Fanatee, Inc.",
+    "updates": [
+      {
+        "date": "2024-11-03",
+        "installs": "5,000,000+",
+        "version": "1.1.2"
+      }
+    ]
+  },
+  "com.unicostudio.braintest": {
+    "title": "Brain Test: Tricky Puzzles",
+    "studio": "Unico Studio",
+    "updates": [
+      {
+        "date": "2024-11-05",
+        "installs": "100,000,000+",
+        "version": "2.754.0"
+      }
+    ]
+  },
+  "com.dino.race.master": {
+    "title": "Car Race",
+    "studio": "Zego Global Pte",
+    "updates": [
+      {
+        "date": "2024-10-28",
+        "installs": "100,000,000+",
+        "version": "1.263"
+      }
+    ]
+  },
+  "com.gamebrain.hexasort": {
+    "title": "Hexa Sort",
+    "studio": "Lion Studios Plus",
+    "updates": [
+      {
+        "date": "2024-11-05",
+        "installs": "10,000,000+",
+        "version": "2.3.50"
+      }
+    ]
+  },
+  "com.totalbattle": {
+    "title": "Total Battle: Jeu de Stratégie",
+    "studio": "Scorewarrior",
+    "updates": [
+      {
+        "date": "2024-11-01",
+        "installs": "10,000,000+",
+        "version": "VARY"
+      }
+    ]
+  },
+  "com.melon.drop.fruit.merge.master": {
+    "title": "Fruit Merge: Juicy Drop Game",
+    "studio": "Brave HK Limited",
+    "updates": [
+      {
+        "date": "2024-10-30",
+        "installs": "10,000,000+",
+        "version": "1.17"
+      }
+    ]
+  },
+  "com.dreamgames.royalmatch": {
+    "title": "Royal Match",
+    "studio": "Dream Games, Ltd.",
+    "updates": [
+      {
+        "date": "2024-10-25",
+        "installs": "100,000,000+",
+        "version": "24853"
+      }
+    ]
+  },
+  "com.kiloo.subwaysurf": {
+    "title": "Subway Surfers",
+    "studio": "SYBO Games",
+    "updates": [
+      {
+        "date": "2024-10-31",
+        "installs": "1,000,000,000+",
+        "version": "3.37.0"
+      }
+    ]
+  },
+  "io.supercent.prison": {
+    "title": "Prison Life: Idle Game",
+    "studio": "Supercent, Inc.",
+    "updates": [
+      {
+        "date": "2024-11-05",
+        "installs": "10,000,000+",
+        "version": "23.0.0"
+      }
+    ]
+  },
+  "com.scopely.monopolygo": {
+    "title": "MONOPOLY GO!",
+    "studio": "Scopely",
+    "updates": [
+      {
+        "date": "2024-10-31",
+        "installs": "50,000,000+",
+        "version": "1.34.1"
+      }
+    ]
+  },
+  "water.sort.puzzle.color.sort.games": {
+    "title": "Water Sort",
+    "studio": "Flyfox Games",
+    "updates": [
+      {
+        "date": "2024-10-30",
+        "installs": "5,000,000+",
+        "version": "1.1.0"
+      }
+    ]
+  },
+  "com.color.busfrenzy": {
+    "title": "Bus Frenzy : Station Shuffle",
+    "studio": "CrazyLabs LTD",
+    "updates": [
+      {
+        "date": "2024-11-05",
+        "installs": "5,000,000+",
+        "version": "5.2"
+      }
+    ]
+  },
+  "com.draw.one.line": {
+    "title": "One Line: Drawing Puzzle Game",
+    "studio": "Kidding Box Studio",
+    "updates": [
+      {
+        "date": "2024-11-06",
+        "installs": "10,000,000+",
+        "version": "1.1.0"
+      }
+    ]
+  },
+  "com.headlines.air.dance": {
+    "title": "SpanningTiles",
+    "studio": "Gameus",
+    "updates": [
+      {
+        "date": "2024-09-09",
+        "installs": "500,000+",
+        "version": "1.0.2"
+      }
+    ]
+  },
+  "com.syubestgames.teachersimulator": {
+    "title": "Teacher Simulator: School Days",
+    "studio": "Kwalee Ltd",
+    "updates": [
+      {
+        "date": "2024-10-22",
+        "installs": "100,000,000+",
+        "version": "2.1.2"
+      }
+    ]
+  },
+  "com.pd.vehiclemasters": {
+    "title": "Vehicle Masters",
+    "studio": "SayGames Ltd",
+    "updates": [
+      {
+        "date": "2024-11-02",
+        "installs": "50,000,000+",
+        "version": "1.0.33"
+      }
+    ]
+  },
+  "com.gamovation.mahjongclub": {
+    "title": "Mahjong Club - Solitaire Game",
+    "studio": "GamoVation",
+    "updates": [
+      {
+        "date": "2024-11-05",
+        "installs": "10,000,000+",
+        "version": "3.6.4"
+      }
+    ]
+  },
+  "com.virtualregatta": {
+    "title": "Virtual Regatta Offshore",
+    "studio": "Virtual Regatta SAS",
+    "updates": [
+      {
+        "date": "2024-11-05",
+        "installs": "1,000,000+",
+        "version": "7.0.8"
+      }
+    ]
+  },
+  "com.Polystation.BuildABabe": {
+    "title": "Build A Queen",
+    "studio": "Supersonic Studios LTD",
+    "updates": [
+      {
+        "date": "2024-10-30",
+        "installs": "100,000,000+",
+        "version": "4.7"
+      }
+    ]
+  },
+  "com.ig.coffee.jam": {
+    "title": "Coffee Craze",
+    "studio": "Zego Global Pte",
+    "updates": [
+      {
+        "date": "2024-11-06",
+        "installs": "100,000+",
+        "version": "1.9"
+      }
+    ]
+  },
+  "io.voodoo.paper2": {
+    "title": "Paper.io 2",
+    "studio": "VOODOO",
+    "updates": [
+      {
+        "date": "2024-10-30",
+        "installs": "100,000,000+",
+        "version": "4.6.2"
+      }
+    ]
+  }
+}
