@@ -11,7 +11,7 @@ app.get('/', (req, res) => {
   res.sendFile(path.join(process.cwd(), 'index.html'));
 });
 
-app.get('/data', (req, res) => {
+app.get('https://datajournalisme.onrender.com/data', (req, res) => {
     fs.readdir(dataFolderPath, (err, files) => {
         if (err) {
             return res.status(500).send("Erreur lors de la lecture du dossier.");
